@@ -3,6 +3,4 @@
 - Mi primer hackeo fue a su corazon 
 - Wordpress es para la raza debil
 - En mi tiempo libre hago beats de technito locochon 
-- 
-
 
