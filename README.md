@@ -1,3 +1,3 @@
-- Comparto lo que aprendo de Criptografia, Pentesting, Scraping y cositas interesantes 
-- Wordpress es para la raza debil  <!- - Yo soy la raza debil -->
+- Criptografia, Pentesting, Scraping
 - Ataco maquinas en Hack the Box
+  
